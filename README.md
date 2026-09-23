@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning FSD <br>👯 I’m looking to collaborate on projects and looking to make open source contribution<br>🤝 I’m looking for help with learning new frameworks <br>🌱 I’m currently learning JS, React, Typescript<br>💬 Ask me about anything i'll give you answers but they might not be correct lol<br>
+🔭 I’m currently working on learning FSD, DSA using CPP and OPPS concepts <br>👯 I’m looking to collaborate on projects and looking to make open source contributions<br>🤝 I’m looking for help with learning networking frameworks <br>🌱 I’m currently learning JS, React, Typescript<br>💬 Ask me about anything i'll give you answers but they might not be correct lol<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruv.official002@gmail.com) 
